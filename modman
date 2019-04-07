@@ -1,0 +1,11 @@
+app/code/community/Magebees/Responsivebannerslider/
+app/design/adminhtml/default/default/layout/responsivebannerslider.xml
+app/design/adminhtml/default/default/template/responsivebannerslider/
+app/design/frontend/base/default/layout/responsivebannerslider.xml
+app/design/frontend/base/default/template/responsivebannerslider/slider.phtml
+app/design/frontend/rwd/default/layout/responsivebannerslider.xml
+app/design/frontend/rwd/default/template/responsivebannerslider/slider.phtml
+app/etc/modules/Magebees_Responsivebannerslider.xml
+js/responsivebannerslider/
+skin/adminhtml/default/default/responsivebannerslider/
+skin/frontend/base/default/css/responsivebannerslider/
